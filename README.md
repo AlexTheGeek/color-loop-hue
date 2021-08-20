@@ -18,6 +18,5 @@ sudo docker build -t color-loop-hue .
 ## Code
 All the code can be found in the `App Code` folder.
 
-## Credit
-Alexis Brunet  
-contact[at]lapinfo[dot]fr.
+## Contact
+contact[at]lapinfo[dot]fr
