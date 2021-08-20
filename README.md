@@ -20,4 +20,4 @@ All the code can be found in the `App Code` folder.
 
 ## Credit
 Alexis Brunet  
-contact[at]lapinfo[dot]ovh.
+contact[at]lapinfo[dot]fr.
